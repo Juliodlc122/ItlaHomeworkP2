@@ -1,0 +1,15 @@
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\bin\Debug\net8.0\Capa de Lógica.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\bin\Debug\net8.0\Capa de Lógica.dll
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\bin\Debug\net8.0\Capa de Lógica.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\bin\Debug\net8.0\Capa de Entidades.dll
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\bin\Debug\net8.0\Capa de Entidades.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de .8B13F990.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.dll
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\refint\Capa de Lógica.dll
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\Capa de Lógica.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Capa de Lógica\obj\Debug\net8.0\ref\Capa de Lógica.dll
