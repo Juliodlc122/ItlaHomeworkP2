@@ -1,0 +1,7 @@
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\obj\Debug\Mapa_De_Clases.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\obj\Debug\Mapa_De_Clases.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\bin\Debug\MiembrosDeComunidad.exe.config
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\bin\Debug\MiembrosDeComunidad.exe
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\bin\Debug\MiembrosDeComunidad.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\obj\Debug\MiembrosDeComunidad.exe
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\MiembrosDeComunidad\MiembrosDeComunidad\obj\Debug\MiembrosDeComunidad.pdb

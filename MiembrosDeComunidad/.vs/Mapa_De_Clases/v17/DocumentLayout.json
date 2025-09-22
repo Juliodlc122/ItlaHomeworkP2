@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\MiembrosDeComunidad.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\MiembrosDeComunidad.csproj|solutionrelative:miembrosdecomunidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\miembrosdecomunidad\\miembrosdecomunidad\\.models\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3F0879-19CA-4FD3-8307-3192E1222D9C}|MiembrosDeComunidad\\Mapa_De_Clases.csproj|solutionrelative:miembrosdecomunidad\\.models\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\ExAlumno.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\ExAlumno.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\ExAlumno.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\ExAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:07:01.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\Program.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\Program.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:53:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Estudiante.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:06:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Administrativo.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Administrativo.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Administrativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:05:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Docente.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Docente.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:03:37.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Administrador.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:04:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maestro.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Maestro.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Maestro.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Maestro.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Maestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:05:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\Empleado.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\Empleado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:03:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiembroDeLaComunidad.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\MiembroDeLaComunidad.cs",
+              "RelativeDocumentMoniker": "MiembrosDeComunidad\\.Models\\MiembroDeLaComunidad.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\MiembrosDeComunidad\\MiembrosDeComunidad\\.Models\\MiembroDeLaComunidad.cs",
+              "RelativeToolTip": "MiembrosDeComunidad\\.Models\\MiembroDeLaComunidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:02:55.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
