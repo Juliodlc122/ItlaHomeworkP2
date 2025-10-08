@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|c:\\users\\julio\\documents\\techstorewebapp_\\techstorewebapp_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4601AC30-E0CC-4B56-B976-1E25B518C017}|TechStoreWebApp_\\TechStoreWebApp_.csproj|solutionrelative:techstorewebapp_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:50:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:45:26.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:45:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:31:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvyYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:27:13.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:50:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:50:34.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:45:20.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:35:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:44:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:06:59.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Edit.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:36:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Delete.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:38:21.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Program.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Program.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Program.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:08:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:16:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Controllers\\Products.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\Products.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Controllers\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:42:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\ProductsApiController.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Controllers\\ProductsApiController.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Controllers\\ProductsApiController.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Controllers\\ProductsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:25:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Details.cshtml",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Views\\Details.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Views\\Details.cshtml",
+              "RelativeToolTip": "TechStoreWebApp_\\Views\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T22:37:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\Models\\Product.cs",
+              "RelativeToolTip": "TechStoreWebApp_\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:10:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\appsettings.json",
+              "RelativeDocumentMoniker": "TechStoreWebApp_\\appsettings.json",
+              "ToolTip": "C:\\Users\\julio\\Documents\\TechStoreWebApp_\\TechStoreWebApp_\\appsettings.json",
+              "RelativeToolTip": "TechStoreWebApp_\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T22:09:55.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
