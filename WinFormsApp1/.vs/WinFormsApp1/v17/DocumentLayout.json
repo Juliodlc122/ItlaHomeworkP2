@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\julio\\documents\\itlaprogramacion2\\itlahomeworkp2\\winformsapp1\\winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ABF405AB-8817-4C0F-BF98-993A00785665}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.vbproj",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-09-22T23:47:48.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-22T23:47:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\julio\\Documents\\ItlaProgramacion2\\ItlaHomeworkP2\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-22T23:43:06.184Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
