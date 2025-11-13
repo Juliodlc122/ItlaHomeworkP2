@@ -1,0 +1,23 @@
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\refint\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Domain\obj\Debug\net8.0\ref\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.sourcelink.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\refint\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Domain\obj\Debug\net8.0\ref\School.Domain.dll

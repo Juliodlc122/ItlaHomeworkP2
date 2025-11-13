@@ -1,0 +1,35 @@
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.runtimeconfig.json
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.I.43F417B3.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\refint\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.genruntimeconfig.cache
+C:\Users\julio\Documents\ItlaProgramacion2\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\ref\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.deps.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.runtimeconfig.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Domain.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\bin\Debug\net8.0\School.Domain.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.AssemblyInfo.cs
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.sourcelink.json
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.I.43F417B3.Up2Date
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\refint\School.Infrastructure.dll
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.pdb
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.genruntimeconfig.cache
+C:\Users\julio\Documents\ItlaProgramacion2\ItlaHomeworkP2\Tarea 4\SchoolSolution\School.Infrastructure\obj\Debug\net8.0\ref\School.Infrastructure.dll
