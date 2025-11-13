@@ -10,10 +10,10 @@ using School.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Agregar servicios al contenedor.
+
 builder.Services.AddControllers();
 
-// 2. Configurar el DbContext
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<SchoolContext>(options =>
     options.UseSqlServer(connectionString));
@@ -36,7 +36,7 @@ builder.Services.AddSwaggerGen(options =>
     {
         Title = "School API ",
         Version = "v1",
-        Description = "API para gestión académica con arquitectura limpia.",
+        Description = "API para gestiÃ³n acadÃ©mica con arquitectura limpia.",
         Contact = new Microsoft.OpenApi.Models.OpenApiContact
         {
             Name = "Julio", 
