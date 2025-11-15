@@ -1,2 +1,0 @@
-C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Mapa de clases\obj\Debug\Mapa de clases.csproj.AssemblyReference.cache
-C:\Users\julio\Documents\ItlaProgramacion2\Mapa de clases\Mapa de clases\obj\Debug\Mapa de clases.csproj.CoreCompileInputs.cache
